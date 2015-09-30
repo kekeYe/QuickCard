@@ -246,8 +246,8 @@
 		C3A6B4201BB52B22002C13CC /* control */ = {
 			isa = PBXGroup;
 			children = (
-				C3ACE9C11BB398790009A4B6 /* LoginTableViewController.m */,
 				C3ACE9C01BB398790009A4B6 /* LoginTableViewController.h */,
+				C3ACE9C11BB398790009A4B6 /* LoginTableViewController.m */,
 				C3ACE9DE1BB3E6CF0009A4B6 /* loginViewController.h */,
 				C3ACE9DF1BB3E6CF0009A4B6 /* loginViewController.m */,
 				C3ACE9E71BB40D260009A4B6 /* ZEViewController.h */,
